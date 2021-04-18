@@ -34,7 +34,7 @@
     $dinner = array('스위트콘과 아스파라거스',
                     '레몬 치킨',
                     '삶은 망태버섯');
-    print "$dinner[0] 그리고 $dinner[1] 주세요."
+    print "$dinner[0] 그리고 $dinner[1] 주세요.";
 
 //두 개의 원소가 있는 $lunch 배열 생성하기
     //$lunch[0]을 지정한다.
