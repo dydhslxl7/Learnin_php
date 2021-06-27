@@ -1,0 +1,4 @@
+alice@example.com|앨리스
+bandersnatch@example.org|반더스내치
+charles@milk.example.com|찰리
+dodgson@turtle.example.com|루이스
